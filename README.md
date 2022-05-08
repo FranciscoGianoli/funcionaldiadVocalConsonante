@@ -1,0 +1,2 @@
+# funcionaldiadVocalConsonante
+Created with CodeSandbox
